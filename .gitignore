@@ -1,0 +1,10 @@
+/.vs
+/Bevezeto/Bevezeto/bin/*
+/Bevezeto/Bevezeto/obj/*
+/Bevezeto/.vs/*
+/Bevezeto/Bevezeto/Tests/bin/*
+/Bevezeto/Bevezeto/Tests/obj/*
+.vs/
+packages/
+bin/
+obj/
